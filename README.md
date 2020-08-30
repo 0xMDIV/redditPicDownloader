@@ -14,7 +14,7 @@
 ### USAGE
 * Clone the project into your local machine.
 * Go to your created app page and copy client_id, client_secret, and user_agent values.
-![Screenshot of form](/howTo/createForm.jpg)
+![Screenshot of form](/howTo/appPage.jpg)
 
 * Then open creds.json file and insert these copied values. And your good to go.
 * Open terminal in folder where project is cloned and run this command python picBot.py -sub "Art" -n 20 -sort "top" -t "month".
