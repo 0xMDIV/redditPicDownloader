@@ -22,3 +22,8 @@
 * -n: number of images you want to download
 * -sort: sort subreddit by i.e. new, best, top, etc.
 * -t: timeline i.e. day, week, month ,etc. **-t is optional and only used when you sort by 'Top'**.
+
+
+### Output Logs
+
+![Output Log](/howTo/outputLogs.jpg)
