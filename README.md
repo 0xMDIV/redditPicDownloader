@@ -1,4 +1,5 @@
 # Reddit Image Downloader
+# Original Author: https://github.com/5addam/redditImageDownloader/
 
 ## Prerequisite
 * Reddit Account
